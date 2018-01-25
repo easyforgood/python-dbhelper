@@ -1,0 +1,16 @@
+{
+	"backup": {
+		"host": "huyunku.rqyi.db",
+		"port": 3306,
+		"user": "iu_akup",
+		"pwd": "123456",
+		"db": "backup"
+	},
+	"mongodb": {
+		"url": "mongodb://fdsf.qiyi.mongo:27012,dfdf-zeus-2.qiyi.mongo:27012",
+		"authdb": "admin",
+		"user": "test",
+		"passwd": "test",
+		"db": "sfdsf"
+	}
+}
